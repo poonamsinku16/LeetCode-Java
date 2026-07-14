@@ -27,8 +27,7 @@ Welcome to my LeetCode journey! This repository contains my Java solutions to Le
 | LeetCode # | Problem | Difficulty | Status |
 |------------|---------|------------|--------|
 | 1 | Two Sum | Easy | ✅ |
-| 26 | Remove Duplicates from Sorted Array | Easy | ✅ |
-| 27 | Remove Element | Easy | ✅ |
+
 
 ---
 
