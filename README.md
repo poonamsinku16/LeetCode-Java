@@ -10,17 +10,18 @@ Welcome to my LeetCode journey! This repository contains my Java solutions to Le
 - Improve problem-solving skills.
 - Prepare for placements and technical interviews.
 
-## 📚 Topics
-- Arrays
-- Strings
-- HashMap
-- Two Pointers
-- Binary Search
-- Stack
-- Queue
-- Linked List
-- Trees
-- Dynamic Programming
+## 📚 Topics I Am Learning
+
+- ✅ Arrays
+- ⬜ Strings
+- ⬜ HashMap
+- ⬜ Two Pointers
+- ⬜ Binary Search
+- ⬜ Stack
+- ⬜ Queue
+- ⬜ Linked List
+- ⬜ Trees
+- ⬜ Dynamic Programming
 
 ## ✅ Problems Solved
 
