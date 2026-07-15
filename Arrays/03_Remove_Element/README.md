@@ -1,5 +1,6 @@
 # Remove Element
 
+
 ## Title
 Remove Element using Two Pointer Approach
 
