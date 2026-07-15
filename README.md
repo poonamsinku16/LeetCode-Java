@@ -1,6 +1,6 @@
 # LeetCode Java Solutions 🚀
 
-Welcome to my LeetCode journey! This repository contains my Java solutions to LeetCode problems as I prepare for coding interviews.
+Welcome to my LeetCode journey! This repository contains my Java solutions to LeetCode problems as I prepare for coding interviews and placements.
 
 ## 👩‍💻 Language
 - Java
@@ -10,8 +10,7 @@ Welcome to my LeetCode journey! This repository contains my Java solutions to Le
 - Improve problem-solving skills.
 - Prepare for placements and technical interviews.
 
-## 📚 Topics I Am Learning
-
+## 📚 Topics
 - ✅ Arrays
 - ⬜ Strings
 - ⬜ HashMap
@@ -23,13 +22,21 @@ Welcome to my LeetCode journey! This repository contains my Java solutions to Le
 - ⬜ Trees
 - ⬜ Dynamic Programming
 
+## 📈 Progress
+
+- ✅ Problems Solved: **4**
+- 🟢 Easy: **3**
+- 🔴 Hard: **1**
+
 ## ✅ Problems Solved
 
 | LeetCode # | Problem | Difficulty | Status |
 |------------|---------|------------|--------|
-| 1 | Two Sum | Easy | ✅ |
-
+| 001 | Two Sum | Easy | ✅ |
+| 002 | Remove Duplicates from Sorted Array | Easy | ✅ |
+| 003 | Remove Element | Easy | ✅ |
+| 004 | Median of Two Sorted Arrays | Hard | ✅ |
 
 ---
 
-⭐ I will continue updating this repository with more LeetCode solutions.
+⭐ I will continue updating this repository with more LeetCode solutions every day.
